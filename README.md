@@ -5,7 +5,7 @@
 
 3) Cut the existing code, and paste it in a text editor for backup, name it backup.html
 
-4) Select & copy all the code in farbey-royal-1.0.2.html
+4) Select & copy all the code in marinaTheme.html
 
 5) Paste it in the now empty Edit HTML section of Tumblr
 
